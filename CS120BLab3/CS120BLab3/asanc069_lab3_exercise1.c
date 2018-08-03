@@ -1,5 +1,5 @@
-/*
- * CS120BLab3.c
+/* Richard McGee rmcgee002@uccr.edu
+ * CS120BLab3 exercise 1.c
  *
  * Created: 8/1/2018 12:16:11 PM
  * Author : ucrcse
