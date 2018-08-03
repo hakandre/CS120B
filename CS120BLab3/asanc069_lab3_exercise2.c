@@ -1,3 +1,4 @@
+//Partner: Richard McGee rmcgee002@ucr.edu
 //Buttons are connected to PA0 and PA1. Output for PORTC is initially 7.
 //Pressing PA0 increments PORTC once (stopping at 9). Pressing PA1 decrements PORTC once (stopping at 0).
 //If both buttons are depressed (even if not initially simultaneously), PORTC resets to 0.
